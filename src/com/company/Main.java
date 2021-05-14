@@ -16,7 +16,7 @@ public class Main {
         }
         print(colors);
 
-        System.out.println();
+        System.out.println("лялялял");
 
         int[][] rotatedColors = new int[SIZE][SIZE];
 
